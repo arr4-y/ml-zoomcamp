@@ -1,2 +1,4 @@
 venv_mlzoomcamp/
 .vscode/
+05-deployment/.venv
+__pycache__/
